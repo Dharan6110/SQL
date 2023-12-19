@@ -1,0 +1,27 @@
+Enterprise Manager Database Control URL - (orcl) :
+http://Dharanreddy:1158/em
+
+Your database configuration files have been installed in D:\oracle\product\10.2.0 while other components selected for installation have been installed in D:\oracle\product\10.2.0\db_1.  Be cautious not to accidentally delete these configuration files.
+The iSQL*Plus URL is:
+http://Dharanreddy:5560/isqlplus
+
+The iSQL*Plus DBA URL is:
+http://Dharanreddy:5560/isqlplus/dba
+
+
+
+
+
+
+
+
+http://Dharanreddy:5500/em
+
+Your database configuration files have been installed in D:\oracle\product\10.2.0 while other components selected for installation have been installed in D:\oracle\product\10.2.0\db_4.  Be cautious not to accidentally delete these configuration files.
+The iSQL*Plus URL is:
+http://Dharanreddy:5560/isqlplus
+
+The iSQL*Plus DBA URL is:
+http://Dharanreddy:5560/isqlplus/dba
+
+
